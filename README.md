@@ -3,12 +3,9 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">🚀 Desenvolvedor Full Stack <br><br> Além do tech stack, trago princípios de organização e a habilidade de traduzir o mundo da TI para o pessoal de fora, buscando sempre o melhor em ambos os universos.<br>💡 Sobre Mim:
-Desenvolvo sites, aplicativos Android e aplicações desktop. Minhas ferramentas principais são Java, PHP, JavaScript, HTML, CSS e Android Studio.
+Desenvolvo sites, aplicativos Android e aplicações desktop. Minhas ferramentas principais são Java, PHP, JavaScript, HTML, CSS e Android Studio. <br>🚀 Minha Abordagem: Sou apaixonado por criar produtos de alta qualidade. Para mim, isso significa não apenas funcionalidade sólida, mas também uma experiência de usuário intuitiva, um design estético e praticidade no uso. </p>&nbsp;
 
-🚀 Minha Abordagem:
-Sou apaixonado por criar produtos de alta qualidade. Para mim, isso significa não apenas funcionalidade sólida, mas também uma experiência de usuário intuitiva, um design estético e praticidade no uso. </p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
+<div  align="center" style="margin-bottom:50px">
 
  </div>
  
@@ -68,7 +65,8 @@ Sou apaixonado por criar produtos de alta qualidade. Para mim, isso significa n�
 
 </div>&nbsp;&nbsp;
  
-
+<h3>👉 O Que Posso Fazer Por Você:</h3>
+<p></p><br>Estou aqui para contribuir para projetos incríveis, garantindo que se destaquem em usabilidade, estética e funcionalidade. Vamos construir algo juntos?</p>
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a8a8a8&height=120&section=footer"/>
