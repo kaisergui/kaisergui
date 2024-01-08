@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/kaisergui/kaisergui/Black-Minimal-Motivation-Quote-LinkedIn-Banner.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/kaisergui/kaisergui/blob/208b67d5a2d26aa6887b8ffcc8ba17d40c0ee608/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
