@@ -3,10 +3,10 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">🚀 Desenvolvedor Full Stack <br><br> Além do tech stack, trago princípios de organização e a habilidade de traduzir o mundo da TI para o pessoal de fora, buscando sempre o melhor em ambos os universos.<br>💡 Sobre Mim:
-Desenvolvo sites, aplicativos Android e aplicações desktop. Minhas ferramentas principais são Java, PHP, JavaScript, HTML, CSS e MySQL.
+Desenvolvo sites, aplicativos Android e aplicações desktop. Minhas ferramentas principais são Java, PHP, JavaScript, HTML, CSS e Android Studio.
 
 🚀 Minha Abordagem:
-Sou apaixonado por criar produtos de alta qualidade. Para mim, isso significa não apenas funcionalidade sólida, mas também uma experiência de usuário intuitiva, um design estético e uma facilidade de uso notável. </p>&nbsp;
+Sou apaixonado por criar produtos de alta qualidade. Para mim, isso significa não apenas funcionalidade sólida, mas também uma experiência de usuário intuitiva, um design estético e praticidade no uso. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 
