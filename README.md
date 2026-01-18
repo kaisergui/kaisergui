@@ -88,13 +88,6 @@ A **full-stack store management system** designed for cosmetics and perfume reta
 
 ---
 
-## 📊 GitHub Stats
-
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaisergui\&show_icons=true\&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisergui\&layout=compact)
-
----
 
 ## 🎯 Career Goals
 
