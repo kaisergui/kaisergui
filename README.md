@@ -101,7 +101,7 @@ A **full-stack store management system** designed for cosmetics and perfume reta
 
 ## 📫 Contact
 
-* 💼 LinkedIn: [https://www.linkedin.com/](www.linkedin.com/in/guilhermekaiserds)
+* 💼 LinkedIn: [https://www.linkedin.com/in/guilhermekaiserds](www.linkedin.com/in/guilhermekaiserds)
 * 🧑‍💻 GitHub: [https://github.com/kaisergui](https://github.com/kaisergui)
 
 ---
