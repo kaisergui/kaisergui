@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Guilherme Kaiser
 
-![Java](https://img.shields.io/badge/Java-17+-red?style=flat-square\&logo=java)
+![Java](https://img.shields.io/badge/Java-8+-red?style=flat-square\&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Framework-brightgreen?style=flat-square\&logo=springboot)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat-square\&logo=postgresql)
 ![GitHub](https://img.shields.io/badge/GitHub-Active-black?style=flat-square\&logo=github)
